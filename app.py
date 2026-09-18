@@ -35,7 +35,7 @@ powerbi_url = "https://app.powerbi.com/reportEmbed?reportId=6bb0bcd0-418c-4024-9
 
 components.iframe(
     powerbi_url,
-    height=1000,
+    height=1300,
     width=None,
     scrolling=True
 )
